@@ -70,10 +70,3 @@ Access the app at [http://127.0.0.1:8000/](http://127.0.0.1:8000/).
 - **Manage Files**: Download or cancel uploaded files.
 - **Logout**: End session, redirecting to the login page.
 
-## Contributing
-
-Feel free to open issues or submit pull requests for improvements.
-
-## License
-
-This project is licensed under the MIT License.
